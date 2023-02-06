@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/cryptex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/cryptex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/cryptex?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Party Bug)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Party Bug?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Party Bug?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
   [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
 
   <br />
   <br />
 
-  <h2 align="center">Cryptex - Cryptocurrency Website</h2>
+  <h2 align="center">Party Bug - Cryptocurrency Website</h2>
 
-  Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Party Bug is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/cryptex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/Party Bug/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Cryptex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Party Bug Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Cryptex** locally, run this command on your git bash:
+To run **Party Bug** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/cryptex.git
+sudo git clone https://github.com/codewithsadee/Party Bug.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/cryptex.git
+git clone https://github.com/codewithsadee/Party Bug.git
 ```
 
 ### Contact

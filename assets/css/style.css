@@ -910,7 +910,7 @@ address.footer-contact-link { max-width: 30ch; }
    * HERO
    */
 
-  .hero-banner {
+  .hero-banner.png {
     max-width: max-content;
     margin-inline: auto;
   }
